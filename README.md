@@ -1,1 +1,1 @@
-# Statistics-A-B-testing
+# statistics_A_B_tests
